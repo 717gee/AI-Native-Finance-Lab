@@ -8,8 +8,7 @@
 
 ## 💡 Why This Lab Exists / 为什么创建这个实验室
 
-### English
-Over the past 25+ years, I have worked across industries, functions, and organizational stages:
+### Over the past 25+ years, I have worked across industries, functions, and organizational stages:
 * From Fortune 500 companies to startups.
 * From manufacturing and semiconductors to internet and service businesses.
 * From finance leadership to business leadership.
@@ -21,8 +20,7 @@ Today, AI creates a new possibility. What happens when decades of business exper
 
 `AI-Native-Finance-Lab` is my attempt to explore that question.
 
-### 中文
-过去 25+ 年里，我持续穿越不同的行业、职能和组织阶段：
+### 过去 25+ 年里，我持续穿越不同的行业、职能和组织阶段：
 * 世界 500 强与创业公司
 * 高端制造业与芯片产业
 * 互联网与服务行业
@@ -94,14 +92,8 @@ Today, AI creates a new possibility. What happens when decades of business exper
 
 ---
 
-## ☕ Buy Me A Coffee / 请作者喝杯咖啡
-
-如果这些探索对您有所启发，欢迎请作者喝杯咖啡。
-
-<img width="180"  alt="ff5544a37c468d1c8bb5adc5c2a846f0" src="https://github.com/user-attachments/assets/a5540021-c390-466f-bcd5-a2b3300f5658" />
 
 
----
 
 ## 👨‍💻 About the Author
 
