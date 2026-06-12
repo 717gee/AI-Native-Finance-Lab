@@ -1,319 +1,112 @@
-# 🔒 AI Data Vault
+# 🚀 AI-Native-Finance-Lab
 
-## AI数据保险箱
-
-### Secure Your Data Before AI
-
-### 在使用 AI 之前，先保护你的数据
-
-Most CFOs don't lack AI tools.
-
-They lack a safe way to use them.
-
-大多数 CFO 不缺 AI。
-
-缺的是一个安全使用 AI 的方式。
+> **Business × Finance × AI**
+> 
+> Exploring the Future of AI-Native Organizations / 探索 AI 原生组织的未来形态
 
 ---
 
-AI Data Vault helps finance and operations teams safely use AI without exposing sensitive business data.
+## 💡 Why This Lab Exists / 为什么创建这个实验室
 
-AI 数据保险箱帮助财务与运营团队在保护企业敏感数据的前提下安全使用 AI。
+### English
+Over the past 25+ years, I have worked across industries, functions, and organizational stages:
+* From Fortune 500 companies to startups.
+* From manufacturing and semiconductors to internet and service businesses.
+* From finance leadership to business leadership.
+* From CFO to General Manager.
 
----
+Throughout this journey, one belief became increasingly clear: **Business and Finance should never be separated.**
 
-# 🎯 Why This Project Exists
+Today, AI creates a new possibility. What happens when decades of business experience, financial expertise, and operational knowledge are amplified by AI? Can a single experienced operator, working alongside AI agents, achieve what previously required an entire team? 
 
-## 为什么开发这个项目
+`AI-Native-Finance-Lab` is my attempt to explore that question.
 
-Modern AI models are becoming incredibly powerful.
+### 中文
+过去 25+ 年里，我持续穿越不同的行业、职能和组织阶段：
+* 世界 500 强与创业公司
+* 高端制造业与芯片产业
+* 互联网与服务行业
+* 财务管理与业务经营
+* CFO 与业务总经理
 
-They can:
+这些经历让我越来越相信：**业务与财务，本质上是一体的。**
 
-- Analyze financial reports
-- Identify business risks
-- Detect anomalies
-- Generate management insights
-- Improve decision quality
+而 AI 的出现，第一次让我们有机会重新思考组织的边界。如果一个人积累了足够多的行业经验、经营经验和财务经验，再拥有一群 AI Agent 的协作，是否能够创造出一种全新的组织形态？
 
-现代大模型拥有越来越强大的能力：
-
-- 分析财务报表
-- 识别经营风险
-- 发现异常变化
-- 提供经营洞察
-- 提升决策质量
-
-However, many finance teams face the same concern:
-
-Sensitive internal data should not be directly uploaded to external AI models.
-
-然而很多财务团队都面临同一个问题：
-
-企业敏感数据不能直接上传给外部 AI。
-
-As a result:
-
-Many companies know AI is powerful.
-
-But they still hesitate to use it.
-
-结果就是：
-
-很多企业知道 AI 很强。
-
-却始终不敢真正使用。
+`AI-Native-Finance-Lab` 是我对这个问题的长期探索。
 
 ---
 
-# ⚠️ The Core Conflict
+## 🔍 What I Am Exploring / 当前探索方向
 
-## 当前最大的矛盾
-
-Finance teams want:
-
-✅ Better AI capabilities
-
-财务团队希望获得 AI 能力
-
-But they also need:
-
-✅ Data security
-
-同时又必须保障数据安全
-
-The mission of AI Data Vault is simple:
-
-### Use AI Without Exposing Sensitive Data
-
-### 让企业在不暴露敏感数据的前提下使用 AI
+* **AI-Native Organizations** （AI 原生组织）
+* **One Person Company (OPC)** （一人公司）
+* **Business × Finance Integration** （业财融合）
+* **AI Agents** （智能体协作）
+* **Knowledge Systems** （知识资产）
+* **Decision Intelligence** （智能决策）
+* **Data Security** （数据安全）
 
 ---
 
-# 🛡️ How It Works
+## 🔬 A Working Hypothesis / 一个正在验证的假设
 
-## 工作原理
-
-Before data is sent to AI:
-
-在数据进入 AI 之前：
-
-```text
-Original Data
-      ↓
-Desensitization
-      ↓
-Encryption
-      ↓
-AI Analysis
-      ↓
-Result Mapping
-      ↓
-Business Insight
-```
-
-```text
-原始数据
-    ↓
-脱敏处理
-    ↓
-加密保护
-    ↓
-AI分析
-    ↓
-结果映射
-    ↓
-经营洞察
-```
+| English | 中文 |
+| :--- | :--- |
+| The future may not belong to larger organizations. It may belong to smaller organizations with amplified capability. | 未来未必属于规模更大的组织。未来更可能属于能力被 AI 放大的组织。 |
+| A single experienced operator, supported by AI, may one day perform work that previously required an entire department. | 一个拥有丰富经验的人，在 AI 的协助下，或许能够完成过去一个部门甚至一个公司的工作。 |
+| This may sound utopian today. But every major organizational innovation once did. | 这听起来像乌托邦。但所有新的组织形态，在诞生之前都像乌托邦。 |
 
 ---
 
-# ✨ Key Features
+## 🛠️ Current Project / 当前项目
 
-## 核心功能
+### 🔐 AI Data Vault
+> **Secure Your Data Before AI** / 在使用 AI 之前，先保护你的数据。
 
-| Feature | Description |
-|----------|----------|
-| 🔐 Data Desensitization | Protect names, customers and sensitive identifiers |
-| 🔑 Data Encryption | Encrypt data before AI processing |
-| 🤖 AI Compatible | Compatible with mainstream AI models |
-| 💻 Local First | Run locally and keep control of data |
-| 📊 Finance Focused | Designed for finance and operations teams |
+帮助企业在保障数据安全的前提下，安全使用先进大模型进行：
+* **财务分析** (Financial Analysis)
+* **经营分析** (Operational Analysis)
+* **风险识别** (Risk Identification)
+* **决策支持** (Decision Support)
 
-| 功能 | 说明 |
-|----------|----------|
-| 🔐 数据脱敏 | 保护公司、客户、员工等敏感信息 |
-| 🔑 数据加密 | AI处理前完成加密 |
-| 🤖 大模型兼容 | 兼容主流云端模型 |
-| 💻 本地优先 | 数据自主可控 |
-| 📊 财务场景优化 | 面向财务与运营分析 |
+`AI Data Vault` 是 `AI-Native-Finance-Lab` 的第一个落地产品。
 
 ---
 
-# 👥 Designed For
+## 🌿 Open Source Philosophy / 开源理念
 
-## 适用对象
+> Technology should not replace people. Technology should amplify people.
+> 技术不应该替代人。技术应该放大人的能力。
 
-- CFO
-- Finance Director
-- Controller
-- FP&A Team
-- Finance Business Partner
-- COO
-- Founder / CEO
-- Finance Consultant
+* **Accessible** / 可用的
+* **Practical** / 实用的
+* **Secure** / 安全的
 
 ---
 
-# 🚀 Getting Started
+## 🤝 Let’s Connect / 欢迎交流
 
-## 快速开始
-
-### 1. Download this repository
-
-下载本仓库
-
-### 2. Install dependencies
-
-安装依赖
-
-### 3. Run locally
-
-本地运行
-
-### 4. Upload sample data
-
-导入样例数据
-
-### 5. Start using AI securely
-
-开始安全使用 AI
+如果您关注以下领域，欢迎一起交流探讨：
+* AI 财务 & AI 运营
+* AI 原生组织 & OPC (One Person Company)
+* 数据安全 & 智能决策
 
 ---
 
-# 🤝 Contact & Collaboration
+## ☕ Buy Me A Coffee / 请作者喝杯咖啡
 
-## 联系交流
+如果这些探索对您有所启发，欢迎请作者喝杯咖啡。
 
-Interested in:
-
-如果您关注：
-
-- AI Finance
-- AI Operations
-- AI Agent
-- AI Native Organization
-- Enterprise AI Adoption
-
-Welcome to connect.
-
-欢迎交流。
-
-### WeChat
-
-<img width="188"  alt="4cbf315fb84eb13358512f506eba46a1" src="https://github.com/user-attachments/assets/d4975271-a75d-4dd0-a35e-dbe525a4f301" />
+<img width="180"  alt="ff5544a37c468d1c8bb5adc5c2a846f0" src="https://github.com/user-attachments/assets/a5540021-c390-466f-bcd5-a2b3300f5658" />
 
 
 ---
 
-# 🏢 Enterprise Collaboration
+## 👨‍💻 About the Author
 
-## 企业合作
+**Built by Ji**  
+<img width="180"  alt="4cbf315fb84eb13358512f506eba46a1" src="https://github.com/user-attachments/assets/e9336cf1-9c9e-4758-8ef2-a76773cac58a" />
 
-If your organization needs:
-
-如果您的企业需要：
-
-- Private Deployment（私有化部署）
-- Custom Development（定制开发）
-- AI Finance Transformation（AI财务转型）
-- AI Agent Implementation（AI Agent落地）
-- Data Security Architecture（数据安全架构）
-
-Please contact me.
-
-欢迎联系交流。
-
----
-
-# ☕ Buy Me A Coffee
-
-## 请作者喝杯咖啡
-
-This project is free to use.
-
-本项目永久免费使用。
-
-If AI Data Vault helps you:
-
-如果 AI Data Vault 帮助了您：
-
-- Save Time（节省时间）
-- Improve Productivity（提升效率）
-- Generate Better Insights（获得经营洞察）
-- Use AI More Confidently（更放心地使用 AI）
-
-You are welcome to support the project.
-
-欢迎支持项目持续优化。
-
-| Support | Amount |
-|----------|----------|
-| ☕ Small Coffee | ￥19.9 |
-| ☕☕ Regular Coffee | ￥49.9 |
-| ☕☕☕ CFO Edition | ￥99.9 |
-
-### WeChat Pay
-
-<img width="180"  alt="ff5544a37c468d1c8bb5adc5c2a846f0" src="https://github.com/user-attachments/assets/697cab52-6d28-4642-a9aa-2db6a7d8c1bc" />
-
-
-### Alipay
-
-<img width="180"  alt="dae4f254e5b363d9ea7f6b39331a9a4b" src="https://github.com/user-attachments/assets/35cf5efb-86a1-4e01-bd0b-059346011fee" />
-
-
----
-
-# 🌟 Support The Project
-
-## 支持项目
-
-If you find this project useful:
-
-如果您觉得项目有价值：
-
-- ⭐ Star this repository
-- 🔄 Share it with colleagues
-- 💬 Provide feedback
-- ☕ Buy the author a coffee
-
----
-
-# ❤️ Open Source Philosophy
-
-## 开源理念
-
-AI should be:
-
-- Accessible
-- Practical
-- Secure
-
-AI 应该是：
-
-- 可用
-- 实用
-- 安全
-
-We hope more finance and operations professionals can benefit from AI without compromising data security.
-
-我们希望更多财务与运营团队能够在保障数据安全的前提下享受 AI 带来的价值。
-
----
-
-## Built by Ji
-
-### Finance × Operations × AI
-
-**The First Product of AI-Native-Finance-Lab**
+*25+ Years Across Business, Finance, and Operations.*  
+*Exploring the Future of AI-Native Organizations.*
